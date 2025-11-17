@@ -1,7 +1,7 @@
 <template>
   <div class="auth-page">
     <section class="auth-card">
-      <h1>A1 Logistics Admin</h1>
+      <h1>Royce</h1>
       <p>Sign in to orchestrate loads, drivers and revenue.</p>
       <form @submit.prevent="handleLogin">
         <label>
